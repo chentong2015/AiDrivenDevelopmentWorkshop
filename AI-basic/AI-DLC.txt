@@ -8,10 +8,11 @@ Tech Environment 安装CLI控制台环境
 - GitHub account with an active GitHub Copilot licence
 - Copilot CLI installed, launched and logged in
 
-AI-DLC Workflow 自动化工作流
-powershell> I want to add a new API feature to this service.
-  All the business and technical context is in the docs/requirements/ folder.
-  Read every document in there, and the existing codebase, then begin the AI-DLC workflow.
+AI-DLC Workflow 自动化工作流: 从需求文档到代码实现
+powershell >
+I want to add a new API feature to this service.
+All the business and technical context is in the docs/requirements/ folder.
+Read every document in AI-DLC-sample folder, and the existing codebase, then begin the AI-DLC workflow.
 
 https://cli.github.com/
 https://github.com/awslabs/aidlc-workflows
