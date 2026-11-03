@@ -1,16 +1,14 @@
-AL-DLC (AI-Driven Development Lifecycle) Project
-- .aidlc-rule-details 配置Rule规则文件
-- copilot-workflow 配置工作流文件
-- doc/requirements 配置业务需求
-
-Tech Environment 安装CLI控制台环境
+Tech Environment 配置环境和工具
 - Java, Maven
-- GitHub account with an active GitHub Copilot licence
-- Copilot CLI installed, launched and logged in
+- .aidlc-rule-details/rules.md
+- doc/requirements/feature.md
+- copilot-workflow.md
+- GitHub account, active GitHub Copilot licence
+- Copilot CLI installed, logged in GitHub
 
-AI-DLC Workflow 自动化工作流: 从需求文档到代码实现
-powershell >
-I want to add a new API feature to this service.
+TODO. SSD Impl: 从需求文档到代码实现
+AL-DLC (AI-Driven Development Lifecycle): Workflow
+> I want to add a new API feature to this service.
 All the business and technical context is in the docs/requirements/ folder.
 Read every document in AI-DLC-sample folder, and the existing codebase, then begin the AI-DLC workflow.
 
