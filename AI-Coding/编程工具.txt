@@ -1,0 +1,15 @@
+TODO. AI编程工具
+Anysphere Cursor：AI优先的代码编辑器，强调在整个项目中理解、修改和重构代码
+GitHub Copilot：集成IntelliJ IDEA、VS Code 等IDE中的AI编程助手，强调辅助日常开发
+OpenAI Codex：自主执行开发任务，强调接收任务、修改代码、运行测试和完成工作
+
+Anthropic Claude: 付费计划或API/企业授权，安装成功不代表免费额度自动包含
+- Claude chat 问问题、分析代码、解释Java方法、生成代码片段
+- Claude code 理解整个项目，直接修改本地文件、创建类、执行命令、运行测试并修复错误
+
+Claude Model: AI模型 版本
+- Fable 高能力模型, 复杂项目分析、长时间Agent任务
+- Opus：偏高性能，适合复杂推理、大型代码改造、疑难Bug
+- Sonnet：能力和速度比较均衡，适合日常编程开发
+- Haiku：偏快速、轻量，适合简单问题、快速修改
+- Default：使用工具或平台预设的默认模型，具体选哪个由当前配置决定
