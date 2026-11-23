@@ -12,3 +12,15 @@ TODO. Agent代理
 - Custom Agent 使用自定义角色和工作流程
 - Ask    问答、解释代码、技术咨询，无法修改文件
 - Plan	 分析需求，制定实施计划，无法修改文件
+
+TODO. AI/ML frameworks and libraries
+TensorFlow: open-source machine learning and deep learning framework (Google)
+PyTorch: open-source machine learning and deep learning library (Meta AI)
+
+LangChain:
+open-source framework and agent engineering platform for Python and JavaScript/TypeScript
+that helps developers build, run, and manage applications powered by large language models (LLMs) and AI agents
+
+LangGraph:
+open-source agent orchestration framework by LangChain for building,
+running, and managing stateful, long-running AI workflows and agents.
